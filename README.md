@@ -13,7 +13,7 @@ npm install
 
 ## Usage
 
-Update line 58 for the product and line 59 for the amount of results you'd like
+Update line 58 at [index.js](https://github.com/henriquehschmitt1/crawler/blob/main/index.js) for the product and line 59 for the amount of results you'd like
 
 ```javascript
 //your product here
